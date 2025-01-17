@@ -7,7 +7,7 @@
 ## 🚀 About Me  
 - 💻  A tech enthusiast with a knack for **coding**, **problem-solving**, and **learning new technologies**.  
 - 🌱 Constantly expanding my skill set by diving into the latest frameworks, tools, and technologies.
-- ⚡ Thrilled by challenges—whether it's exploring new countries or hitting personal records at **CrossFit**, I'm all about leveling up in life!   
+- ⚡ Thrilled by challenges—whether it's exploring new countries or hitting personal records at the gym, I'm all about leveling up in life!   
 
 ---
 ![Header](https://github.com/natasa-dz/natasa-dz/blob/main/header_.png)
